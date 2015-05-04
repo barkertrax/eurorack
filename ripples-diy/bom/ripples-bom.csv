@@ -1,0 +1,114 @@
+Partlist
+
+Exported from ripples_v01.brd at 02/05/2015 23:26
+
+EAGLE Version 7.2.0 Copyright (c) 1988-2014 CadSoft
+
+Assembly variant: 
+
+Part     Value          Package              Library    Position (mil)        Orientation
+
+C1       220p           C0603                rcl        (700 4000)            R90
+C2       560p           C0603                rcl        (950 4000)            R270
+C3       560p           C0603                rcl        (1100 4000)           R270
+C4       220p           C0603                rcl        (1362.5 4000)         R90
+C5       100n           C0603                rcl        (562.5 3975)          R90
+C6       220p           C0603                rcl        (687.5 3487.5)        R270
+C7       560p           C0603                rcl        (950 3487.5)          R90
+C8       560p           C0603                rcl        (1100 3487.5)         R90
+C9       220p           C0603                rcl        (1362.5 3487.5)       R270
+C10      100n           C0603                rcl        (1437.5 3487.5)       R90
+C11      220n           C0603                rcl        (262.5 3237.5)        R90
+C12      47u            PANASONIC_D          rcl        (1375 3175)           R270
+C13      100n           C0603                rcl        (462.5 3112.5)        R90
+C14      47u            PANASONIC_D          rcl        (1137.5 2812.5)       R90
+C15      100n           C0603                rcl        (500 2587.5)          R90
+C16      4.7u           PANASONIC_B          rcl        (150 2550)            R90
+C17      560p           C0603                rcl        (662.5 2412.5)        R270
+C18      560p           C0603                rcl        (1037.5 2412.5)       R270
+C19      100n           C0603                rcl        (1112.5 2412.5)       R270
+C20      100n           C0603                rcl        (1175 2412.5)         R90
+C21      100n           C0603                rcl        (375 2350)            R270
+C22      47p            C0603                rcl        (175 2162.5)          R90
+C23      47p            C0603                rcl        (487.5 2162.5)        R90
+C24      560p           C0603                rcl        (650 1850)            R90
+C25      220n           C0603                rcl        (987.5 1712.5)        R270
+C26      47p            C0603                rcl        (175 1612.5)          R270
+C27      47p            C0603                rcl        (487.5 1612.5)        R270
+C28      100n           C0603                rcl        (612.5 1612.5)        R270
+D3       1N5819HW       SOD123               diode      (1125 3137.50394)     R0
+D4       1N5819HW       SOD123               diode      (1124.99606 3050)     R0
+D5       1N4148         SOD323-W             diode      (512.5 1950)          R90
+D6       1N4148         SOD323-W             diode      (587.5 1950)          R270
+F1       FIDUCIAL1X2    FIDUCIAL-1X2         SparkFun   (75 4125)             R90
+F2       FIDUCIAL1X2    FIDUCIAL-1X2         SparkFun   (1475 4125)           R90
+F3       FIDUCIAL1X2    FIDUCIAL-1X2         SparkFun   (75 75)               R90
+F4       FIDUCIAL1X2    FIDUCIAL-1X2         SparkFun   (1475 75)             R90
+IC1      TL072D         SO08                 og-linear  (675 3750)            R0
+IC2      V2164          SOIC16N              ssm2164    (1025 3750)           R0
+IC3      TL072D         SO08                 og-linear  (1375 3750)           R0
+IC4      LM13700M       SO16                 ota        (312.5 2850)          R0
+IC5      TL074D         SO14                 gm-ics     (800 2125)            R0
+IC6      TL074D         SO14                 gm-ics     (275 1900)            R0
+IC7      LM4040 5.0V    DBZ_R-PDSO-G3        texas      (1150 1700)           R180
+J1       PJ301WQP       WQP_PJ_301BM         og-pj301   (300 1200)            R90
+J2       PJ301WQP       WQP_PJ_301BM         og-pj301   (775 1200)            R90
+J3       PJ301WQP       WQP_PJ_301BM         og-pj301   (1250 1200)           R90
+J4       PJ301WQP       WQP_PJ_301BM         og-pj301   (300 725)             R90
+J5       PJ301WQP       WQP_PJ_301BM         og-pj301   (775 725)             R90
+J6       PJ301WQP       WQP_PJ_301BM         og-pj301   (1250 725)            R90
+J7       PJ301WQP       WQP_PJ_301BM         og-pj301   (300 250)             R90
+J8       PJ301WQP       WQP_PJ_301BM         og-pj301   (775 250)             R90
+J9       PJ301WQP       WQP_PJ_301BM         og-pj301   (1250 250)            R90
+JP1      M05X2PTH       AVR_ICSP             og-header  (1400 2725)           MR0
+P1       PTCSMD         PTC-1206             SparkFun   (1125 3237.50394)     R0
+P2       PTCSMD         PTC-1206             SparkFun   (1375 2387.5)         R0
+Q1       MMBT3906       SOT23-BEC            transistor (1037.5 2562.5)       R90
+Q2       MMBT3906       SOT23-BEC            transistor (550 2412.5)          R90
+R1       33k            R0603                rcl        (762.5 4000)          R270
+R2       33k            R0603                rcl        (825 4000)            R90
+R3       510            R0603                rcl        (887.5 4000)          R270
+R4       510            R0603                rcl        (1162.5 4000)         R270
+R5       33k            R0603                rcl        (1225 4000)           R270
+R6       33k            R0603                rcl        (1287.5 4000)         R90
+R7       10kB           ALPS_POT_VERTICAL_PS pot-alps   (325 3800)            R180
+R8       33k            R0603                rcl        (750 3487.5)          R270
+R9       100k           R0603                rcl        (812.5 3487.5)        R90
+R10      510            R0603                rcl        (887.5 3487.5)        R90
+R11      510            R0603                rcl        (1162.5 3487.5)       R90
+R12      33k            R0603                rcl        (1225 3487.5)         R90
+R13      33k            R0603                rcl        (1287.5 3487.5)       R270
+R14      1.0k           R0603                rcl        (200 3112.5)          R270
+R15      300k           R0603                rcl        (262.5 3112.5)        R90
+R16      22k            R0603                rcl        (325 3112.5)          R90
+R17      1.0k           R0603                rcl        (387.5 3112.5)        R90
+R18      10kB           ALPS_POT_VERTICAL_PS pot-alps   (775 2950)            R180
+R19      1.0k           R0603                rcl        (300 2587.5)          R90
+R20      100k           R0603                rcl        (362.5 2587.5)        R90
+R21      1.0k           R0603                rcl        (425 2587.5)          R90
+R22      47k            R0603                rcl        (725 2412.5)          R90
+R23      27k            R0603                rcl        (787.5 2412.5)        R270
+R24      62k            R0603                rcl        (850 2412.5)          R270
+R25      22k            R0603                rcl        (912.5 2412.5)        R270
+R26      47k            R0603                rcl        (975 2412.5)          R90
+R27      39k            R0603                rcl        (300 2350)            R270
+R28      1.0k           R0603                rcl        (112.5 2162.5)        R90
+R29      100k           R0603                rcl        (237.5 2162.5)        R90
+R30      39k            R0603                rcl        (300 2162.5)          R270
+R31      100k           R0603                rcl        (425 2162.5)          R90
+R32      1.0k           R0603                rcl        (550 2162.5)          R90
+R33      10kB CD        ALPS_POT_VERTICAL_PS pot-alps   (1225 2100)           R180
+R34      47k            R0603                rcl        (712.5 1850)          R90
+R35      100k           R0603                rcl        (775 1850)            R90
+R36      15k            R0603                rcl        (837.5 1850)          R270
+R37      100k           R0603                rcl        (975 1850)            R90
+R38      100k           R0603                rcl        (1037.5 1850)         R270
+R39      6.8k           R0603                resistor   (1050 1712.5)         R90
+R40      100k           R0603                rcl        (1250 1712.5)         R90
+R41      1.0k           R0603                rcl        (112.5 1612.5)        R270
+R42      100k           R0603                rcl        (237.5 1612.5)        R270
+R43      33k            R0603                rcl        (300 1612.5)          R90
+R44      39k            R0603                rcl        (362.5 1612.5)        R90
+R45      100k           R0603                rcl        (425 1612.5)          R270
+R46      1.0k           R0603                rcl        (550 1612.5)          R270
+R100     5k             RTRIM3296W           rcl        (762.5 1712.5)        MR270
