@@ -11,7 +11,7 @@ As a gentle introduction to PCB design, I designed a simple 'host PCB' to house 
 ## Current status
 
 * Main PCB: fully populated and tested - works.
-* Host PCB: design complete and awaiting upload to OSH Park
+* Host PCB: awaiting delivery from OSH Park
 * Panel: In progress
 
 ## Possible extension

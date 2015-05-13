@@ -6,7 +6,7 @@ Thanks to Olivier's commitment to open sourcing his designs, the hardware design
 
 ## Current status
 
-* PCB: on order from OSH Park. Preparing BOM for Mouser order
+* PCB: pcbs and parts have arrived - awaiting assembly
 * Panel: Not started
 
 ## Resources
@@ -14,6 +14,8 @@ Thanks to Olivier's commitment to open sourcing his designs, the hardware design
 * [Mouser cart for DIY Ripples?](http://www.muffwiggler.com/forum/viewtopic.php?t=135332)
 
 ## Notes
+
+
 
 
 

@@ -6,7 +6,7 @@ My initial plan was to try and build something comparable to the [Intelijel Buff
 
 ## Current status
 
-* PCB: in progress
+* PCB: awaiting delivery from OSHPark
 * Panel: In progress
 
 ## Resources

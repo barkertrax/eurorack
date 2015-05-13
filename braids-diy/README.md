@@ -8,8 +8,8 @@ Full details of Braids is available from Mutable Instruments: [http://mutable-in
 
 ## Current status
 
-* PCB: fully populated and sanity checked - there seems to be the right number of volts in the right places 
-* Software: toolchain installed and software compiled. Currently awaiting a USB->Serial interface to try the upload on to the CPU.
+* PCB: completed and tested 
+* Software: uploaded to cpu
 * Panel: In progress
 
 ## Resources
