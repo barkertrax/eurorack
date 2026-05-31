@@ -18,7 +18,7 @@ Full details of Braids is available from Mutable Instruments: [http://mutable-in
 
 Some years ago, I bought a PCB online that implements the classic 808 bass drum circuit from the Roland TR808. The PCB is still available to purchase: [http://www.tindie.com/products/jmej/808-kick-drum-clone-pcb/](http://www.tindie.com/products/jmej/808-kick-drum-clone-pcb/).
 
-As part of my current modular DIY effort, I decided to finally populate the PCB and turn it into a eurorack module for use in my system. 
+As part of my modular DIY effort, I decided to finally populate the PCB and turn it into a eurorack module for use in my system. 
 
 As a gentle introduction to PCB design, I designed a simple 'host PCB' to house the hardware (3 x jacks; 4 x pots) and support the main PCB.
 
