@@ -1,8 +1,8 @@
 # Braids-DIY
 
-Braids is a "macro oscillator" designed by Olivier Gillet of Mutable Instruments. In contrast to the analog VCOs usually used in modular system, Braids uses a software based system under voltage control.
+Braids is a "macro oscillator" designed by Émilie Gillet of Mutable Instruments. In contrast to the analog VCOs usually used in modular system, Braids uses a software based system under voltage control.
 
-Thanks to Olivier's commitment to open sourcing his designs, all of the hardware and software for Braids is available for use in personal projects.
+Thanks to Émilie's commitment to open sourcing her designs, all of the hardware and software for Braids is available for use in personal projects.
 
 Full details of Braids is available from Mutable Instruments: [http://mutable-instruments.net/modules/braids](http://mutable-instruments.net/modules/braids).
 
@@ -10,13 +10,13 @@ Full details of Braids is available from Mutable Instruments: [http://mutable-in
 
 * PCB: completed and tested 
 * Software: uploaded to cpu
-* Panel: In progress
+* Panel: complete
 
 ## Resources
 
 Given a) the level interest in Mutable Instrument's products and b) the availability of the designs for personal use, there has been a fair amount of interest from the modular community about realising these designs. Here are some resources I've found pretty invaluable:
 
-* [MI Braids Gerbers/ Eagle export?](http://www.muffwiggler.com/forum/viewtopic.php?t=120940) - Many pages of discussion detailing the journey from Olivier's Eagle files to a working module.
+* [MI Braids Gerbers/ Eagle export?](http://www.modwiggler.com/forum/viewtopic.php?t=120940) - Many pages of discussion detailing the journey from Émilie's Eagle files to a working module.
 * [Mutable Instrument's Braids open source](http://mutable-instruments.net/modules/braids/open) - Information from MI regarding:
     * setting up the toolchain required to compile the firmware
     * compiling the firmware

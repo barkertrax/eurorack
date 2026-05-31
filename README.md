@@ -8,9 +8,9 @@ Progress so far:
 
 ### Braids
 
-Braids is a "macro oscillator" designed by Olivier Gillet of Mutable Instruments. In contrast to the analog VCOs usually used in modular system, Braids uses a software based system under voltage control.
+Braids is a "macro oscillator" designed by Émilie Gillet of Mutable Instruments. In contrast to the analog VCOs usually used in modular system, Braids uses a software based system under voltage control.
 
-Thanks to Olivier's commitment to open sourcing his designs, all of the hardware and software for Braids is available for use in personal projects.
+Thanks to Émilie's commitment to open sourcing her designs, all of the hardware and software for Braids is available for use in personal projects.
 
 Full details of Braids is available from Mutable Instruments: [http://mutable-instruments.net/modules/braids](http://mutable-instruments.net/modules/braids).
 
@@ -28,7 +28,7 @@ Every modular system needs a few multiples, and for my 2nd PCB design I decided 
 
 ### Ripples
 
-Ripples is another Mutable Instruments module built thanks to Olivier's open source'd designs. It's a 'classic' 4-pole multimode analog filter.
+Ripples is another Mutable Instruments module built thanks to Émilie's open source'd designs. It's a 'classic' 4-pole multimode analog filter.
 
 Full details of Ripples is available from Mutable Instruments: [http://mutable-instruments.net/modules/ripples](http://mutable-instruments.net/modules/ripples).
 

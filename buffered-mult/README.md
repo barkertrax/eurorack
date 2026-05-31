@@ -6,12 +6,12 @@ My initial plan was to try and build something comparable to the [Intelijel Buff
 
 ## Current status
 
-* PCB: awaiting delivery from OSHPark
-* Panel: In progress
+* PCB: completed and tested
+* Panel: completed
 
 ## Resources
 
-* [Buffered mults](http://www.muffwiggler.com/forum/viewtopic.php?t=74951) - The circuit designed by Muffwiggler, daverj, is given on page 2 of this thread.
+* [Buffered mults](http://www.modwiggler.com/forum/viewtopic.php?t=74951) - The circuit designed by Muffwiggler, daverj, is given on page 2 of this thread.
 
 ## Notes
 
