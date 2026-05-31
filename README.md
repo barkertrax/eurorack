@@ -2,35 +2,9 @@
 
 This repository contains the results of my attempts to put together a DIY modular synthesiser.
 
-## Modules
+## Philosphoy
 
-Progress so far:
-
-### Braids
-
-Braids is a "macro oscillator" designed by Émilie Gillet of Mutable Instruments. In contrast to the analog VCOs usually used in modular system, Braids uses a software based system under voltage control.
-
-Thanks to Émilie's commitment to open sourcing her designs, all of the hardware and software for Braids is available for use in personal projects.
-
-Full details of Braids is available from Mutable Instruments: [http://mutable-instruments.net/modules/braids](http://mutable-instruments.net/modules/braids).
-
-### 808 Bass Drum
-
-Some years ago, I bought a PCB online that implements the classic 808 bass drum circuit from the Roland TR808. The PCB is still available to purchase: [http://www.tindie.com/products/jmej/808-kick-drum-clone-pcb/](http://www.tindie.com/products/jmej/808-kick-drum-clone-pcb/).
-
-As part of my modular DIY effort, I decided to finally populate the PCB and turn it into a eurorack module for use in my system. 
-
-As a gentle introduction to PCB design, I designed a simple 'host PCB' to house the hardware (3 x jacks; 4 x pots) and support the main PCB.
-
-### Buffered Multiple
-
-Every modular system needs a few multiples, and for my 2nd PCB design I decided to make a PCB for a circuit posted on the Muffwiggler forum.
-
-### Ripples
-
-Ripples is another Mutable Instruments module built thanks to Émilie's open source'd designs. It's a 'classic' 4-pole multimode analog filter.
-
-Full details of Ripples is available from Mutable Instruments: [http://mutable-instruments.net/modules/ripples](http://mutable-instruments.net/modules/ripples).
+Ever the masochist, I imposed a rule on myself when I invited Eurorack modules into my life - buying finished modules ready for use from a shop is not permitted. Everything must be built. By me. Whilst self-designed circuits and PCBs are the ideal here, I decided early on I was happy to permit kits.
 
 ## Tools
 
@@ -38,11 +12,15 @@ These are some of the tools I've been using:
 
 ### PCB design
 
+Update 2025: I'm now using KiCAD in preference to Eagle.
+
 I've been using Cadsoft Eagle [http://www.cadsoftusa.com](http://www.cadsoftusa.com) to layout PCBs, mostly because it's free, and because there is a huge amount of information available online to help the novice user get to grips with the software.
 
 For modular synth design, I found the Music Thing Modular part library incredibily useful: [http://github.com/TomWhitwell/MTM-Parts-Library](http://github.com/TomWhitwell/MTM-Parts-Library).
 
 ### PCB fabrication
+
+Update 2025: [JLCPCB](https://jlcpcb.com) is now my PCB fabricator of choice.
 
 After a little bit of research, I decided to try OSH Park [http://oshpark.com](http://oshpark.com) when the time came to make my first PCB. The results were very successful, so I've stuck with them since.
 
